@@ -1,11 +1,21 @@
-# Oliveiras
+<h1 align="center">
+  <img src="images/app-icon.png" width="136" alt="icon"><br>
+  Pandemias<br>
+</h1>
 
-# Ideia:
+iOS app project to give information about the coronavirus pandemic. The project includes:
 
-Fornecer informações de forma rápida e confiáveis sobre saúde mundial e pandemias.
+- Chatbot to get fast and reliable information
+- Charts and statistics that includes the number of infected, recovered, active and deaths cases
+- FAQ
 
-# Qual é o problema ou oportunidade de ação?
+Developed by: [Marina Aranha](https://github.com/mariaranha), [Matheus Oliveira](https://github.com/matheussoliveira), [Julia Mestre](https://github.com/JuliaMestre), [Felipe Luna](https://github.com/LunaFelipe)
 
-Dado o grande volume de informações sobre a nova pandemia, a quantidade de notícias e informações falsas sobre saúde pública aumentou proporcionalmente. Após pesquisa realizada pela agência Edelman*, notou-se que 64% dos brasileiros preferem redes sociais como fonte de informações à jornais e OMS, estando mais vulneráveis às fake news. A disseminação de orientações falsas pode causar grande impacto na população como o aumento do pânico, ansiedade e até colocar pessoas em risco. 
-
-A oportunidade de ação é reunir informações de fontes confiáveis sobre saúde pública de forma que possa ser acessada de modo fácil e rápido através de um chatbot.
+## Demo
+<table>
+  <tr>
+    <td><img src="images/screenshot1.png" width=270 height=550></td>
+    <td><img src="images/screenshot2.png" width=270 height=550></td>
+    <td><img src="images/screenshot3.png" width=270 height=550></td>
+  </tr>
+ </table>
